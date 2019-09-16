@@ -1,0 +1,2 @@
+Transcrypt==3.7.16
+travertino==0.1.2
